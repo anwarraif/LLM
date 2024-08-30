@@ -6,34 +6,42 @@ load_dotenv()
 
 api_key = os.getenv('OPENAI_API_KEY')
 
-def generate_knowledge(text, file_name):
+def buat_profil_restoran(nama_restoran, nama_file):
     url = "https://api.openai.com/v1/chat/completions"
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {api_key}"
     }
+    prompt = f"""
+    Buat profil lengkap untuk sebuah restoran bernama {nama_restoran}, termasuk yang berikut:
+    - Nama Restoran
+    - Alamat
+    - Informasi Kontak
+    - Email
+    - Menu dengan deskripsi, harga, dan ketersediaan
+    - Catatan khusus atau fitur dari restoran tersebut.
+    Pastikan formatnya mirip dengan yang digunakan dalam profil perusahaan untuk bisnis, terstruktur dan jelas.
+    """
     data = {
         "model": "gpt-4o-mini",
         "messages": [
-            {"role": "system", "content": "You are a helpful assistant named Gupy, generating knowledge about AI, Machine Learning, and Deep Learning in a structured format."},
-            {"role": "user", "content": text}
+            {"role": "system", "content": "Anda adalah asisten yang membantu membuat profil restoran yang rinci dalam format terstruktur."},
+            {"role": "user", "content": prompt}
         ]
     }
     response = requests.post(url, headers=headers, json=data)
     response_data = response.json()
-    response_results = response_data['choices'][0]['message']['content'].strip()
+    hasil_respon = response_data['choices'][0]['message']['content'].strip()
 
-    # Save the results to a .txt file
-    with open(file_name, 'a') as file:
-        file.write(response_results + '\n\n')
+    # Simpan hasilnya ke file .txt
+    with open(nama_file, 'a') as file:
+        file.write(hasil_respon + '\n\n')
     
-    return response_results
+    return hasil_respon
 
 if __name__ == '__main__':
-    while True:
-        t = input('Enter topic (or type "exit" to quit): ')
-        if t == 'exit':
-            break
-        result = generate_knowledge(t, 'ai_knowledge.txt')
-        print(f'Gupy: {result}')
-        print("Knowledge has been saved to ai_knowledge.txt.")
+    nama_restoran = "Warung Nasi Jamblang"
+    hasil = buat_profil_restoran(nama_restoran, 'Profil_Restoran.txt')
+    print(f'Profil yang dihasilkan untuk {nama_restoran}:')
+    print(hasil)
+    print("Profil telah disimpan ke Profil_Restoran.txt.")

@@ -1,0 +1,38 @@
+# Profil Restoran
+
+## Nama Restoran
+Warung Nasi Jamblang
+
+## Alamat
+Jalan Raya Nasi Jamblang No. 123  
+Kecamatan Cimilung, Kota Cikalong  
+Provinsi Jawa Barat, 40912  
+
+## Informasi Kontak
+- Telepon: (022) 123-4567  
+- Nomor WhatsApp: +62 812-3456-7890  
+
+## Email
+info@warugnasijamblang.com  
+
+## Menu
+
+| Nama Menu                    | Deskripsi                                                  | Harga (IDR) | Ketersediaan            |
+|------------------------------|-----------------------------------------------------------|--------------|-------------------------|
+| Nasi Jamblang Classic        | Nasi dengan sambal terasi, lauk lengkap, dan sayuran.    | 25,000       | Setiap Hari, 09:00 - 21:00 |
+| Tahu Tempe Crispy            | Tahu dan tempe yang digoreng hingga renyah, disajikan dengan sambal kecap. | 15,000       | Setiap Hari, 09:00 - 21:00 |
+| Ayam Penyet                  | Ayam goreng yang disajikan dengan sambal penyet dan nasi. | 30,000       | Setiap Hari, 09:00 - 21:00 |
+| Sayur Asem                   | Sup sayur segar dengan rasa asam yang khas.              | 10,000       | Setiap Hari, 09:00 - 21:00 |
+| Kerupuk Kemplang             | Kerupuk khas yang renyah, cocok sebagai pelengkap nasi.   | 5,000        | Setiap Hari, 09:00 - 21:00 |
+| Minuman Jeruk Segar          | Minuman segar dari jeruk yang diperas.                   | 10,000       | Setiap Hari, 09:00 - 21:00 |
+
+## Catatan Khusus
+- **Fitur Khusus:** Warung Nasi Jamblang memiliki konsep "Dine and Learn", di mana pelanggan dapat belajar tentang sejarah dan tradisi makanan Jawa Barat selama makan.
+- **Layanan Pesan Antar:** Tersedia layanan pesan antar untuk area sekitar dengan minimum pemesanan senilai 50,000 IDR.
+- **Menu Vegan:** Menyediakan pilihan menu vegan bagi pelanggan yang memilih diet nabati.
+- **Jadwal Khusus:** Mengadakan acara live music setiap akhir minggu yang menampilkan musisi lokal.
+
+---
+
+Dengan profil ini, Warung Nasi Jamblang menawarkan pengalaman kuliner yang lengkap dengan sentuhan budaya lokal yang khas.
+
