@@ -15,7 +15,7 @@ def generate_knowledge(text, file_name):
     data = {
         "model": "gpt-4o-mini",
         "messages": [
-            {"role": "system", "content": "You are a helpful assistant named Brum, generating knowledge about AI, Machine Learning, and Deep Learning in a structured format."},
+            {"role": "system", "content": "You are a helpful assistant named Gupy, generating knowledge about AI, Machine Learning, and Deep Learning in a structured format."},
             {"role": "user", "content": text}
         ]
     }
@@ -35,5 +35,5 @@ if __name__ == '__main__':
         if t == 'exit':
             break
         result = generate_knowledge(t, 'ai_knowledge.txt')
-        print(f'Assistant: {result}')
+        print(f'Gupy: {result}')
         print("Knowledge has been saved to ai_knowledge.txt.")
