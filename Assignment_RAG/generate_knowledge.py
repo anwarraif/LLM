@@ -18,9 +18,10 @@ def buat_profil_restoran(nama_restoran, nama_file):
     - Alamat
     - Informasi Kontak
     - Email
-    - Menu dengan deskripsi, harga, dan ketersediaan
+    - Menu dengan deskripsi (makanan dan minuman), harga, dan ketersediaan
     - Catatan khusus atau fitur dari restoran tersebut.
     Pastikan formatnya mirip dengan yang digunakan dalam profil perusahaan untuk bisnis, terstruktur dan jelas.
+    Serta berikan informasi menunya bervariasi ada makanan dan minumam, dengan makanan dan minuman khas dari Cirebon Jawa Barat Indonesia.
     """
     data = {
         "model": "gpt-4o-mini",
@@ -40,7 +41,7 @@ def buat_profil_restoran(nama_restoran, nama_file):
     return hasil_respon
 
 if __name__ == '__main__':
-    nama_restoran = "Warung Nasi Jamblang"
+    nama_restoran = "Warung Kuliner Cirebon"
     hasil = buat_profil_restoran(nama_restoran, 'Profil_Restoran.txt')
     print(f'Profil yang dihasilkan untuk {nama_restoran}:')
     print(hasil)
