@@ -1,8 +1,0 @@
-fastapi
-psycopg2
-psycopg2-binary
-requests
-python-dotenv
-uvicorn
-PyPDF2
-python-multipart
