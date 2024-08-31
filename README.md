@@ -20,8 +20,8 @@ The overall flow represents a Retrieval-Augmented Generation (RAG) process where
 ## Usage
 First, you need to set up the pgvector extension for images in Docker. I'm using Docker Desktop (link provided below). Then, run Docker Compose to connect to DBeaver. After that, test the PostgreSQL connection in DBeaver using the port, user, and password specified in the docker-compose.yaml file. Once that's done, run the code in initial_db.py to create the Vector Database in PostgreSQL. Next, run main.py and open the port for FastAPI. You can refer to the tutorial video on the drive for the testing process.
 
-docker image : https://www.docker.com/blog/how-to-use-the-postgres-docker-official-image/
-link tutorial video : https://drive.google.com/drive/folders/1PuaNL4N2WXpIz9UfygSpemTc4R4F5LJ3?usp=sharing
+- docker image : https://www.docker.com/blog/how-to-use-the-postgres-docker-official-image/
+- link tutorial video : https://drive.google.com/drive/folders/1PuaNL4N2WXpIz9UfygSpemTc4R4F5LJ3?usp=sharing
 
 #RAG
 #GPT
