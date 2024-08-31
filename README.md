@@ -8,14 +8,14 @@ The system extracts text related to Cirebon cuisine, converts this information i
 The overall flow represents a Retrieval-Augmented Generation (RAG) process where text is extracted from a document, converted into embeddings, stored in a vector database, and later queried to find similar content based on embeddings. This method is useful in tasks like question answering, where the system retrieves relevant information from a database of knowledge based on the input query.
 
 ## Requirements Version
-fastapi==0.112.2
-psycopg2==2.9.9
-psycopg2-binary==2.9.9
-requests==2.32.3
-python-dotenv==1.0.1
-uvicorn==0.30.6
-pypdf2==3.0.1
-python-multipart==0.0.9
+- fastapi==0.112.2
+- psycopg2==2.9.9
+- psycopg2-binary==2.9.9
+- requests==2.32.3
+- python-dotenv==1.0.1
+- uvicorn==0.30.6
+- pypdf2==3.0.1
+- python-multipart==0.0.9
 
 ## Usage
 First, you need to set up the pgvector extension for images in Docker. I'm using Docker Desktop (link provided below). Then, run Docker Compose to connect to DBeaver. After that, test the PostgreSQL connection in DBeaver using the port, user, and password specified in the docker-compose.yaml file. Once that's done, run the code in initial_db.py to create the Vector Database in PostgreSQL. Next, run main.py and open the port for FastAPI. You can refer to the tutorial video on the drive for the testing process.
