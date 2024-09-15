@@ -2530,3 +2530,4 @@ venv/Lib/site-packages/PyPDF2/pagerange.py
 venv/Lib/site-packages/PyPDF2/papersizes.py
 venv/Lib/site-packages/PyPDF2/types.py
 venv/Lib/site-packages/PyPDF2/xmp.py
+*.csv
