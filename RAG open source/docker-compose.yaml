@@ -1,0 +1,11 @@
+version: "3"
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    ports:
+      - "8012:5432"
+    restart: always
+    environment:
+      POSTGRES_DB: rag_open_source
+      POSTGRES_USER: your_user
+      POSTGRES_PASSWORD: your_password

@@ -1,0 +1,106 @@
+# Profil Restoran
+
+## Nama Restoran
+Warung Nasi Jamblang
+
+## Alamat
+Jalan Raya Nasi Jamblang No. 123  
+Kecamatan Cimilung, Kota Cikalong  
+Provinsi Jawa Barat, 40912  
+
+## Informasi Kontak
+- Telepon: (022) 123-4567  
+- Nomor WhatsApp: +62 812-3456-7890  
+
+## Email
+info@warugnasijamblang.com  
+
+## Menu
+
+| Nama Menu                    | Deskripsi                                                  | Harga (IDR) | Ketersediaan            |
+|------------------------------|-----------------------------------------------------------|--------------|-------------------------|
+| Nasi Jamblang Classic        | Nasi dengan sambal terasi, lauk lengkap, dan sayuran.    | 25,000       | Setiap Hari, 09:00 - 21:00 |
+| Tahu Tempe Crispy            | Tahu dan tempe yang digoreng hingga renyah, disajikan dengan sambal kecap. | 15,000       | Setiap Hari, 09:00 - 21:00 |
+| Ayam Penyet                  | Ayam goreng yang disajikan dengan sambal penyet dan nasi. | 30,000       | Setiap Hari, 09:00 - 21:00 |
+| Sayur Asem                   | Sup sayur segar dengan rasa asam yang khas.              | 10,000       | Setiap Hari, 09:00 - 21:00 |
+| Kerupuk Kemplang             | Kerupuk khas yang renyah, cocok sebagai pelengkap nasi.   | 5,000        | Setiap Hari, 09:00 - 21:00 |
+| Minuman Jeruk Segar          | Minuman segar dari jeruk yang diperas.                   | 10,000       | Setiap Hari, 09:00 - 21:00 |
+
+## Catatan Khusus
+- **Fitur Khusus:** Warung Nasi Jamblang memiliki konsep "Dine and Learn", di mana pelanggan dapat belajar tentang sejarah dan tradisi makanan Jawa Barat selama makan.
+- **Layanan Pesan Antar:** Tersedia layanan pesan antar untuk area sekitar dengan minimum pemesanan senilai 50,000 IDR.
+- **Menu Vegan:** Menyediakan pilihan menu vegan bagi pelanggan yang memilih diet nabati.
+- **Jadwal Khusus:** Mengadakan acara live music setiap akhir minggu yang menampilkan musisi lokal.
+
+---
+
+Dengan profil ini, Warung Nasi Jamblang menawarkan pengalaman kuliner yang lengkap dengan sentuhan budaya lokal yang khas.
+
+# Profil Restoran: Warung Kuliner Cirebon
+
+## Nama Restoran
+Warung Kuliner Cirebon
+
+## Alamat
+Jl. Cirebon Raya No. 123, Cirebon, Jawa Barat, Indonesia
+
+## Informasi Kontak
+- Telepon: (0231) 123-4567
+- WhatsApp: 0812-3456-7890
+
+## Email
+info@warungkulinercirebon.com
+
+## Menu
+
+### Makanan
+1. **Nasi Jamblang**
+   - **Deskripsi**: Nasi putih yang disajikan menggunakan daun jati, disertai berbagai lauk seperti ayam goreng, telur dadar, dan sambal terasi.
+   - **Harga**: Rp 25.000
+   - **Ketersediaan**: Setiap hari
+
+2. **Tahu Gejrot**
+   - **Deskripsi**: Tahu yang digoreng hingga kecoklatan, disiram dengan sambal kecap yang pedas dan asam, dengan irisan bawang merah.
+   - **Harga**: Rp 15.000
+   - **Ketersediaan**: Setiap hari
+
+3. **Empal Gentong**
+   - **Deskripsi**: Daging sapi yang dimasak dalam kuah santan yang kaya rempah, disajikan dalam panci gentong yang khas Cirebon.
+   - **Harga**: Rp 40.000
+   - **Ketersediaan**: Setiap hari
+
+4. **Kerupuk Amplang**
+   - **Deskripsi**: Kerupuk ikan yang gurih dan kriuk, sangat cocok untuk teman makan nasi atau sebagai camilan.
+   - **Harga**: Rp 10.000
+   - **Ketersediaan**: Setiap hari
+
+5. **Mie Koclok**
+   - **Deskripsi**: Mie kuning yang disajikan dengan kuah santan kental, potongan daging ayam, dan sayuran segar.
+   - **Harga**: Rp 30.000
+   - **Ketersediaan**: Setiap hari
+
+### Minuman
+1. **Es Cendol**
+   - **Deskripsi**: Minuman manis dari cendol, santan, dan gula merah, sangat menyegarkan di siang hari.
+   - **Harga**: Rp 15.000
+   - **Ketersediaan**: Setiap hari
+
+2. **Kopi Cirebon**
+   - **Deskripsi**: Kopi hitam khas Cirebon yang diseduh dengan cara tradisional, memberikan rasa yang kuat dan aroma yang menggugah selera.
+   - **Harga**: Rp 10.000
+   - **Ketersediaan**: Setiap hari
+
+3. **Teh Tarik**
+   - **Deskripsi**: Teh manis yang ditarik dengan cara khusus untuk menghasilkan busa yang kental dan rasa yang nikmat.
+   - **Harga**: Rp 12.000
+   - **Ketersediaan**: Setiap hari
+
+## Catatan Khusus atau Fitur
+- **Tempat Parkir**: Tersedia tempat parkir yang luas dan aman.
+- **Ruangan Ber-AC**: Menyediakan tempat duduk yang nyaman dengan pendingin udara.
+- **Pesan Antar**: Layanan pesan antar tersedia untuk daerah sekitar Cirebon.
+- **Promo Spesial**: Diskon 10% untuk pembelian di atas Rp 200.000 setiap hari Senin.
+- **Acara Khusus**: Menyelenggarakan acara makan malam dengan tema khusus pada akhir pekan.
+
+Warung Kuliner Cirebon bertujuan untuk menghadirkan ragam cita rasa makanan khas Cirebon dalam suasana yang nyaman dan bersahabat.
+
