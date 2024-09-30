@@ -10,6 +10,8 @@ The entire application is deployed using Docker and Docker Compose, ensuring sea
 
 The system's overall flow follows a Retrieval-Augmented Generation (RAG) process, where text is first extracted from a document, converted into embeddings using the Llama text embedding model, and stored in the vector database. Later, based on user queries, these embeddings are used to find similar or relevant content. This method is particularly effective for tasks like question answering, where the system retrieves pertinent information from the knowledge base and generates an informative response based on the input query. The combination of retrieval and generation ensures that the system can provide accurate and contextually relevant answers.
 
+The evaluation system addapt with reaction_app.py that can be used for adding like, dislike, or regenerate button for online evaluation metrics. Hope this project can be improve and collaborate with the readers in the feature.
+
 ## Requirements Version
 - fastapi==0.112.2
 - psycopg2==2.9.9
